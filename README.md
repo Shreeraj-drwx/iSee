@@ -1,7 +1,7 @@
 # iSee
 ###### Hack-n-roll 2023 project (iSee - automated organ transplant monitor)
 
-more info : 
+more info : [Devpost](https://devpost.com/software/isee-cuy7rd)
 
 This was a hack and roll 2023 project based on using the raspberry pi equipeed with sensors to
 monitor organ data and based on the type of body part and notify amubulance passngers about the condition of the 
